@@ -3,7 +3,5 @@
   "version": "master",
   "installs": [],
   "removes": [],
-  "dependencies": {
-    "base": "master"
-  }
+  "dependencies": {}
 }
