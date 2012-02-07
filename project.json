@@ -1,0 +1,7 @@
+{
+  "name": "foo",
+  "version": "master",
+  "installs": [],
+  "removes": [],
+  "dependencies": {}
+}
