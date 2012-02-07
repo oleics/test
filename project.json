@@ -1,6 +1,6 @@
 {
   "name": "foo",
-  "version": "master",
+  "version": "0.0.0",
   "installs": [],
   "removes": [],
   "dependencies": {
